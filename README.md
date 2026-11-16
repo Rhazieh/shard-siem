@@ -1,3 +1,8 @@
+> **🔧 Fork Contribution by Maxi Cano ([@Rhazieh](https://github.com/Rhazieh)):**
+> Branch [`feature-production-compose`](https://github.com/Rhazieh/shard-siem/tree/feature-production-compose) hardens `docker-compose.yml` (`feat: add resource limits and healthchecks to docker-compose`) by adding strict CPU/RAM resource limits and automated container healthchecks across the SIEM, Prometheus, and Grafana services to prevent host saturation and improve service availability.
+
+---
+
 # 🛡️ SHARD Enterprise SIEM
 
 > Autonomous AI-driven SIEM platform with real-time threat detection, autonomous response, and multi-model cyber defense.
